@@ -1,4 +1,5 @@
-# [FunStuff](https://binarydigitcodes.github.io/FunStuff/)
-## Fun sites or projects that I find
+# [Fun sites or projects that I find](https://binarydigitcodes.github.io/FunStuff/)
 
 [justforfunnoreally.dev](https://justforfunnoreally.dev/)
+
+
